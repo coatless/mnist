@@ -6,5 +6,5 @@ https://github.com/coatless/mnist/releases/tag/mnist-data
 
 Direct URLs: 
 
-= https://github.com/coatless/mnist/releases/download/mnist-data/mnist_train.csv
+- https://github.com/coatless/mnist/releases/download/mnist-data/mnist_train.csv
 - https://github.com/coatless/mnist/releases/download/mnist-data/mnist_test.csv
